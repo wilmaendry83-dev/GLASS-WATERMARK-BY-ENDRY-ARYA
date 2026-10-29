@@ -1,0 +1,8 @@
+{
+  "name": "Xiaomi Leica Watermark Studio",
+  "description": "Aplikasi pembuat watermark foto Xiaomi Leica HyperOS elegan dengan font original Xiaomi, efek frosted glass, live moment, kontrol real-time, mode gelap, dan ekspor resolusi tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
